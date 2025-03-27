@@ -2,7 +2,7 @@
 // import { CardDefault } from "./components/Card";
 // import { Aluno, Turma, Professor } from "./components/Classe";
 
-import Avaliacao from "./components/avaliacao";
+import Avaliacao from "./components/Avaliacao";
 import Perfil from "./components/Perfil";
 import PerfilButton from "./components/PerfilButton";
 import TestUseState from "./components/TestUseState";
